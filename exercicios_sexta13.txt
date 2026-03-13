@@ -1,0 +1,23 @@
+1) Qual o comando que lista todos os filmes?
+
+2) Qual o comando que descobre o ano do filme "Brinquedo Assassino"? E qual seu ano de exibição?
+
+3) Qual o comando que mostra os 15 primeiros filmes da lista?
+
+4) Qual o comando que mostra os 10 últimos filmes da lista?
+
+5) Qual o comando que descobre o filme exibido em 2012? E qual o nome desse filme?
+
+6) Qual o comando que limpa o terminal?
+
+7) Qual o comando que descobre o filme exibido em 1979 e os 5 filmes que vêm depois dele?
+
+8) Qual o comando que descobre o ano em que foi lançado o filme "A Bruxa" e os 10 filmes que vêm antes dele?
+
+9) Qual o comando que cria uma nova pasta/diretório chamado "exercicio9" dentro da pasta atual?
+
+10) Qual o comando que lista todo o conteúdo dentro da pasta atual?
+
+11) Qual o comando que copia o arquivo filmes.txt para a pasta exercicio9?
+
+12) Qual o comando que entra na pasta exercicio9?
